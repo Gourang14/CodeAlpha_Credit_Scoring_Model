@@ -3,7 +3,7 @@
 Predicting credit scores is crucial for financial institutions to assess the creditworthiness of individuals. This project applies machine learning techniques to classify credit scores based on a variety of demographic, financial, and behavioral features. The goal is to build a model that can accurately predict a customer's credit score, helping institutions make informed decisions regarding loans and other financial services.
 
 # Dataset
-The dataset used for this project is publicly available on Kaggle: Credit Score Classification Dataset.
+The dataset used for this project is publicly available on Kaggle: "(https://www.kaggle.com/datasets/parisrohan/credit-score-classification)"
 
 The key features of the dataset include:
 
